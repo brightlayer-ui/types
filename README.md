@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-types).
+
 # Brightlayer UI Types
 
 ## Installation
